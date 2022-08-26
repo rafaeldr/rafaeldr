@@ -1,6 +1,6 @@
 Hi there 👋, I'm Rafael!
 ========================
-
+<!--
 Ph.D. Candidate in Computer Science
 -----------------------------------
 
@@ -21,7 +21,7 @@ Ph.D. Candidate in Computer Science
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://activity-graph.herokuapp.com/graph?username=rafaeldr&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldr&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&langs_count=10" /></a>
 
 <!--
