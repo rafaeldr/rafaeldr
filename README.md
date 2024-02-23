@@ -1,12 +1,12 @@
 Hi there 👋, I'm Rafael!
 ========================
-<!--
+
 Ph.D. Candidate in Computer Science
 -----------------------------------
 
-- 🔭 I was born in São João da Boa Vista - SP, Brazil, in 1987. Received the B. Sc . degree in Computer Science from the São Paulo State University - UNESP, Rio Claro - SP, in 2008. Got the M. Sc . degree in Applied Computing at the University of São Paulo, Brazil, in 2018 and now I am a Ph.D. candidate in the same university. I have experience in software development and project management. And my current research interests include Machine Learning, Complex Networks and Computational Neuroscience.
+- 🔭 I was born in São João da Boa Vista - SP, Brazil, in 1987. In 2008 received a B. Sc . degree in Computer Science from the São Paulo State University - UNESP, Rio Claro - SP. I got an M. Sc . degree in Applied Computing at the University of São Paulo, Brazil, in 2018, and now I am a Ph.D. candidate at the same university. I have experience in software development and project management. My current research interests include Machine Learning, Complex Networks, and Computational Neuroscience.
 
-
+<!--
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
