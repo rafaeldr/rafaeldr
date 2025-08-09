@@ -4,7 +4,15 @@ Hi there 👋, I'm Rafael!
 Ph.D. Candidate in Computer Science
 -----------------------------------
 
-- 🔭 I was born in São João da Boa Vista - SP, Brazil, in 1987. In 2008 received a B. Sc . degree in Computer Science from the São Paulo State University - UNESP, Rio Claro - SP. I got an M. Sc . degree in Applied Computing at the University of São Paulo, Brazil, in 2018, and now I am a Ph.D. candidate at the same university. I have experience in software development and project management. My current research interests include Machine Learning, Complex Networks, and Computational Neuroscience.
+- 🔭 I was born in São João da Boa Vista, SP, Brazil, in 1987. I earned my B.Sc. in Computer Science from São Paulo State University (UNESP, Rio Claro) in 2008, my M.Sc. in Applied Computing from the University of São Paulo in 2018, and my Ph.D. in Computer Science from the Institute of Mathematics and Computer Science (ICMC-USP, Capes 7) in 2025.
+
+I have over five years of professional experience in the software development industry — including large-scale projects for banks and franchise networks — and over 20 years of software development experience when considering my academic work. My career also includes teaching experience at the Federal Institute of São Paulo (IFSP) and a strong track record of interdisciplinary collaboration in research, particularly in psychophysics and eye-tracking.
+
+My doctoral research combines mathematical modeling and computational simulations using complex networks and AI models to investigate how the structural organization of neural networks influences time perception. I have contributed to scientific publications and serve as a reviewer for high-impact international journals.
+
+I aim to apply my expertise in contexts that demand complex systems analysis, artificial intelligence, and data-driven solutions, whether in applied research or strategic high-impact projects.
+
+- 🔬 Research interests: Artificial Intelligence, Complex Networks, Computational Neuroscience, Modeling and Simulation, Dynamic Systems Analysis, Applied Science in Technology.
 
 <!--
 <b>My GitHub Stats</b>
